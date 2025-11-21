@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 🧠 Experimental Psychology ⋅ Behavioural Neuroscience ⋅ Neuroimaging
-
-I am an Experimental Psychology Ph.D. specializing in Behavioural Neuroscience and advanced neuroimaging. I have proven experience managing multi-site clinical trial components, developing rigorous protocols, and ensuring data quality assurance.
+======
+I hold an Experimental Psychology Ph.D. specializing in Behavioural Neuroscience and advanced neuroimaging. I have proven experience managing multi-site clinical trial components, developing rigorous protocols, and ensuring data quality assurance.
 
 I am highly skilled in scientific writing and trained in advanced statistical modeling. As an accomplished instructor, presenter, and speaker, I am adept at disseminating complex findings to diverse audiences.
 
