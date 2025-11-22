@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Biological Foundations of Behaviour (PSY2301)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Ottawa"
+date: 2021-09-01
+location: "Ottawa, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Taught the second-year course Biological Foundations of Behaviour to 100+ students in each of four academic terms. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I was awarded the William Barry Excellence in Teaching Award in 2024 for outstanding contributions to university teaching. This award was based on course evaluations for Biological Foundations of Behaviour.
