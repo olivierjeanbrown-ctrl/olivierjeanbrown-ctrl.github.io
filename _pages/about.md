@@ -7,20 +7,32 @@ redirect_from:
   - /about.html
 ---
 
-🧠 Experimental Psychology ⋅ Behavioural Neuroscience & Neuroimaging
+Profile Summary
 ------
 I hold an Experimental Psychology Ph.D. specializing in behavioural neuroscience and advanced neuroimaging. I have proven experience managing multi-site clinical trial components, developing rigorous protocols, and ensuring data quality assurance.
 
 I am highly skilled in scientific writing and trained in advanced statistical modeling. As an accomplished instructor, presenter, and speaker, I am adept at disseminating complex findings to diverse audiences.
 
-🌟 Key Areas of Expertise
+Areas of Expertise
 ------
-My work spans complex research management, advanced data analysis, and effective communication:
+Clinical Trial Leadership & Neuroimaging Workflow
 
-Clinical Trial Management: Directed the neuroimaging workflow for a Health Canada-regulated, multi-site Randomized Controlled Trial (RCT), including protocol preparation, data acquisition/management, and advanced processing.
+  Directed the entire neuroimaging workflow for a Health Canada-regulated, multi-site Randomized Controlled Trial (RCT).
 
-Advanced Data Analysis: Expertise in Advanced Statistical Modeling (e.g., LME Models, Multiple Regression, Permutation Testing) and statistical validation of analytical results on large scientific datasets. I use tools like R, Python (Pandas/NumPy), SPSS, and MATLAB.
+  Managed the full lifecycle of the project, including protocol preparation, data acquisition and management, advanced processing, and final output (e.g., manuscript writing and publication).
 
-Neuroimaging Proficiency: Skilled in utilizing major neuroimaging tools like FSL, SPM, CONN, and AFNI.
+Advanced Statistical Modeling & Data Science
 
-Instruction & Mentorship: Taught the second-year course Biological Foundations of Behaviour to over 100 students per term at the University of Ottawa. I was awarded the William Barry Excellence in Teaching Award in 2024.
+  Refined expertise in Advanced Statistical Modeling (e.g., Linear Mixed-Effects Models (LME), Multiple Regression, Permutation Testing) and rigorous statistical validation of analytical results.
+
+  Proficiently manage and analyze large scientific datasets using R, Python (Pandas/NumPy), SPSS, and MATLAB.
+
+  Skilled in major neuroimaging analysis tool suites: FSL, SPM, CONN, and AFNI.
+
+Instruction, Mentorship, and Public Engagement
+
+  Designed and delivered the second-year course, Biological Foundations of Behaviour, to classes of over 100 students per term at the University of Ottawa (four terms total).
+
+  Recognized for teaching excellence with the William Barry Excellence in Teaching Award in 2024.
+
+  Volunteered as a keynote speaker, discussant, and presenter at numerous academic conferences.
