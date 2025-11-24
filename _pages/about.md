@@ -17,22 +17,22 @@ Areas of Expertise
 ------
 Clinical Trial Leadership & Neuroimaging Workflow
 
-  Directed the entire neuroimaging workflow for a Health Canada-regulated, multi-site Randomized Controlled Trial (RCT).
+• Directed the entire neuroimaging workflow for a Health Canada-regulated, multi-site Randomized Controlled Trial (RCT).
 
-  Managed the full lifecycle of the project, including protocol preparation, data acquisition and management, advanced processing, and final output (e.g., manuscript writing and publication).
+• Managed the full lifecycle of the project, including protocol preparation, data acquisition and management, advanced processing, and final output (e.g., manuscript writing and publication).
 
 Advanced Statistical Modeling & Data Science
 
-  Refined expertise in Advanced Statistical Modeling (e.g., Linear Mixed-Effects Models (LME), Multiple Regression, Permutation Testing) and rigorous statistical validation of analytical results.
+• Refined expertise in Advanced Statistical Modeling (e.g., Linear Mixed-Effects Models (LME), Multiple Regression, Permutation Testing) and rigorous statistical validation of analytical results.
 
-  Proficiently manage and analyze large scientific datasets using R, Python (Pandas/NumPy), SPSS, and MATLAB.
+• Proficiently manage and analyze large scientific datasets using R, Python (Pandas/NumPy), SPSS, and MATLAB.
 
-  Skilled in major neuroimaging analysis tool suites: FSL, SPM, CONN, and AFNI.
+• Skilled in major neuroimaging analysis tool suites: FSL, SPM, CONN, and AFNI.
 
 Instruction, Mentorship, and Public Engagement
 
-  Designed and delivered the second-year course, Biological Foundations of Behaviour, to classes of over 100 students per term at the University of Ottawa (four terms total).
+• Designed and delivered the second-year course, Biological Foundations of Behaviour, to classes of over 100 students per term at the University of Ottawa (four terms total).
 
-  Recognized for teaching excellence with the William Barry Excellence in Teaching Award in 2024.
+• Recognized for teaching excellence with the William Barry Excellence in Teaching Award in 2024.
 
-  Volunteered as a keynote speaker, discussant, and presenter at numerous academic conferences.
+• Volunteered as a keynote speaker, discussant, and presenter at numerous academic conferences.
