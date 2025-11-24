@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Profile Summary
+Profile Summary 📝
 ------
 I hold a research-intensive Ph.D. with proven experience managing multi-site clinical trial components, developing rigorous scientific projects, and ensuring data-quality assurance.
 
 I am highly skilled in writing and trained in advanced statistical modeling. As an accomplished instructor, presenter, and speaker, I am adept at disseminating complex findings to diverse audiences.
 
-Areas of Expertise
+Areas of Expertise 💡
 ------
 **Research**
 
