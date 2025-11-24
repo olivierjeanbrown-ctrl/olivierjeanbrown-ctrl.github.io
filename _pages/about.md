@@ -15,13 +15,13 @@ I am highly skilled in writing and trained in advanced statistical modeling. As 
 
 Areas of Expertise
 ------
-**Clinical Trial Leadership & Neuroimaging Workflow**
+**Research**
 
   • Directed the entire neuroimaging workflow for a Health Canada-regulated, multi-site Randomized Controlled Trial (RCT).
 
   • Managed the full lifecycle of the project, including protocol preparation, data acquisition and management, advanced processing, and final output (e.g., manuscript writing and publication).
 
-**Advanced Statistical Modeling & Data Science**
+**Statistics**
 
   • Refined expertise in advanced statistical modeling (e.g., Linear Mixed-Effects Models (LME), Multiple Regression, Permutation Testing) and rigorous statistical validation of analytical results.
 
@@ -29,7 +29,7 @@ Areas of Expertise
 
   • Skilled in neuroimaging analysis tool suites: FSL, SPM, CONN, and AFNI.
 
-**Instruction, Mentorship, and Public Engagement**
+**Public Engagement**
 
   • Designed and delivered the second-year course, Biological Foundations of Behaviour, to classes of over 100 students per term at the University of Ottawa (four terms total).
 
