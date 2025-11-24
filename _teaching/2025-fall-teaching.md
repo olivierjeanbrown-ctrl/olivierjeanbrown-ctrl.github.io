@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-fall-teaching
 venue: "University of Ottawa"
-date: 2021-09-01
+date: 
 location: "Ottawa, Canada"
 ---
 
