@@ -5,6 +5,7 @@ category: conferences
 permalink: /publication/abstracts
 excerpt: 'A comprehensive list of my scientific abstracts'
 venue: 'refereed journals and conference proceedings'
+hide_date: true
 date: 2019-04-01
 ---
 
