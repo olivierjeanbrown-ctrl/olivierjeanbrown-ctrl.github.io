@@ -7,8 +7,7 @@ excerpt: 'A comprehensive list of my scientific abstracts'
 date: 2019-04-01
 ---
 
-**Abstract**
-Abstracts Published in Refereed Journals
+**Abstracts Published in Refereed Journals**
 
 1.	**Brown** et al., (2025). Mindfulness-Based Intervention Effects on Resilience Trajectories and Functional Connectivity in Pediatric Concussion. International Paediatric Brain Injury Society, Calgary, AB, Canada.
 
@@ -32,7 +31,7 @@ Abstracts Published in Refereed Journals
 
 11.	Smith et al., (2022). Can mindfulness help with chronic neuropathic pain from breast cancer treatments? The brain says YES! Organization for Human Brain Mapping 2022, Virtual.
 
-Abstracts Published in Conference Proceedings
+**Abstracts Published in Conference Proceedings**
 
 12.	**Brown** et al., (2025). Mindfulness-Based Intervention Moderates Functional Connectivity Over Time in Adolescents Following Concussion. Brain Health Research Day, Ottawa, Canada.
 
