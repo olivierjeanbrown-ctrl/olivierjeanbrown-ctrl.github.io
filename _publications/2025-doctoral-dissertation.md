@@ -7,7 +7,7 @@ excerpt: ' '
 date: 2025-11-25
 venue: 'University of Ottawa'
 paperurl: 'https://olivierjeanbrown-ctrl.github.io/files/Brown_Olivier_2025_thesis.pdf'
-citation: 'Brown (2025). &quot;Neural Correlates of Resilience in Pediatric Concussion and the Influence of a Mindfulness-Based Intervention&quot; <i>University of Ottawa</i>.'
+citation: 'Brown (2025). &quot;Neural Correlates of Resilience in Pediatric Concussion and the Influence of a Mindfulness-Based Intervention.&quot; <i>University of Ottawa</i>.'
 ---
 
 **Abstract**
