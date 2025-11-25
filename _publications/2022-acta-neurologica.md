@@ -6,7 +6,7 @@ permalink: /publication/2022-acta-neurologica
 excerpt: ' '
 date: 2022-01-01
 venue: 'Acta Neurologica Belgica'
-citation: 'Hatchard et al., (2022). &quot;Increased gray matter following mindfulness-based stress reduction in breast cancer survivors with chronic neuropathic pain: preliminary evidence using voxel-based morphometry&quot; <i>Acta Neurologica Belgica</i>. 122(3)'
+citation: 'Hatchard et al., (2022). &quot;Increased gray matter following mindfulness-based stress reduction in breast cancer survivors with chronic neuropathic pain: preliminary evidence using voxel-based morphometry.&quot; <i>Acta Neurologica Belgica</i>. 122(3)'
 ---
 
 **Abstract**
