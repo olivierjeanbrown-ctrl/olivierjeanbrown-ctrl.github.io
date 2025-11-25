@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Olivier Brown, Ph.D. – Experimental Psychology & Neuroimaging"
+title: "Olivier Brown, Ph.D. (Experimental Psychology)"
 author_profile: true
 redirect_from: 
   - /about/
