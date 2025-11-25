@@ -1,6 +1,6 @@
 ---
 title: "Analysis Portfolio"
-excerpt: "A description of my experience with various statistical analyses."
+excerpt: "My detailed experience with various statistical analyses."
 collection: portfolio
 ---
 
