@@ -1,5 +1,5 @@
 ---
-title: "Acceptability, usability, and credibility of a mindfulness-based digital therapeutic for pediatric concussion: A mixed-method study v"
+title: "Acceptability, usability, and credibility of a mindfulness-based digital therapeutic for pediatric concussion: A mixed-method study"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-digital-health
