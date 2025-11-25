@@ -7,7 +7,7 @@ excerpt: ' '
 date: 2024-04-01
 venue: 'Digital Health'
 paperurl: 'https://olivierjeanbrown-ctrl.github.io/files/2024-digital-health.pdf'
-citation: 'Sicard et al., (2024). &quot;Acceptability, usability, and credibility of a mindfulness-based digital therapeutic for pediatric concussion: A mixed-method study&quot; <i>Digital Health</i>. 10'
+citation: 'Sicard et al., (2024). &quot;Acceptability, usability, and credibility of a mindfulness-based digital therapeutic for pediatric concussion: A mixed-method study.&quot; <i>Digital Health</i>. 10'
 ---
 
 **Abstract**
