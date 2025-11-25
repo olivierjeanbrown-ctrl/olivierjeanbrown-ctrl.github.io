@@ -5,6 +5,7 @@ excerpt: ' '
 type: "Undergraduate course"
 permalink: /teaching/2025-fall-teaching
 venue: "University of Ottawa"
+date: 2022-09-01
 location: "Ottawa, Canada"
 ---
 
