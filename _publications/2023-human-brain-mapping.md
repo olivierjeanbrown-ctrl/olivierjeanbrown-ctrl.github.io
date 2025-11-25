@@ -1,5 +1,5 @@
 ---
-title: "Associations Between Psychological Resilience and Metrics of White Matter Microstructure in Pediatric Concussion."
+title: "Associations Between Psychological Resilience and Metrics of White Matter Microstructure in Pediatric Concussion.."
 collection: publications
 category: manuscripts
 excerpt: " "
@@ -7,7 +7,7 @@ permalink: /publication/2023-human-brain-mapping
 date: 2023-10-01
 venue: 'Human Brain Mapping'
 paperurl: 'https://olivierjeanbrown-ctrl.github.io/files/2023-human-brain-mapping.pdf'
-citation: 'Brown et al., (2023). &quot;Associations Between Psychological Resilience and Metrics of White Matter Microstructure in Pediatric Concussion.&quot; <i>Human Brain Mapping</i>. 44(10).'
+citation: 'Brown et al., (2023). &quot;Associations Between Psychological Resilience and Metrics of White Matter Microstructure in Pediatric Concussion..&quot; <i>Human Brain Mapping</i>. 44(10).'
 ---
 **Abstract**
 
