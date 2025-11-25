@@ -1,5 +1,5 @@
 ---
-title: "Associations Between Psychological Resilience and Metrics of White Matter Microstructure in Pediatric Concussion.."
+title: "Associations Between Psychological Resilience and Metrics of White Matter Microstructure in Pediatric Concussion."
 collection: publications
 category: manuscripts
 excerpt: " "
