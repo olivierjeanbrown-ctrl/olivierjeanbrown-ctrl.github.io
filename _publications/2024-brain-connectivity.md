@@ -2,7 +2,7 @@
 title: "Associations Between Changes in Psychological Resilience and Resting-State Functional Connectivity Throughout Pediatric Concussion Recovery"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-brain-connectivity
 date: 2024-10-01
 venue: 'Brain Connectivity'
 citation: 'Brown et al., (2024). &quot;Associations Between Changes in Psychological Resilience and Resting-State Functional Connectivity Throughout Pediatric Concussion Recovery.&quot; <i>Brain Connectivity</i>. 14(7).'
