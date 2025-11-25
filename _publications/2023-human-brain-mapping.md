@@ -6,9 +6,9 @@ excerpt: " "
 permalink: /publication/2023-human-brain-mapping
 date: 2023-10-01
 venue: 'Human Brain Mapping'
-paperurl: 'https://academicpages.github.io/files/2023-human-brain-mapping.pdf'
+paperurl: 'https://olivierjeanbrown-ctrl.github.io/files/2023-human-brain-mapping.pdf'
 citation: 'Brown et al., (2023). &quot;Associations Between Psychological Resilience and Metrics of White Matter Microstructure in Pediatric Concussion.&quot; <i>Human Brain Mapping</i>. 44(10).'
 ---
-Abstract
+**Abstract**
 
 This study investigated associations between psychological resilience and characteristics of white matter microstructure in pediatric concussion. This is a case control study and a planned substudy of a larger randomized controlled trial. Children with an acute concussion or orthopedic injury were recruited from the emergency department. Participants completed both the Connor-Davidson Resilience Scale 10 and an MRI at 72 h and 4-weeks post-injury. The association between resiliency and fractional anisotropy (FA), mean diffusivity (MD), axial diffusivity (AD), and radial diffusivity (RD) at both timepoints were examined. We examined whether these associations were moderated by group. The association between resiliency captured at 72 h and diffusion tensor imaging metrics at 4 weeks was also investigated. Clusters were extracted using a significance threshold of threshold-free cluster enhancement corrected p < .05. A total of 66 children with concussion (median (IQR) age = 12.88 (IQR: 11.80-14.36); 47% female) and 29 children with orthopedic-injury (median (IQR) age = 12.49 (IQR: 11.18-14.01); 41% female) were included. A negative correlation was identified in the concussion group between 72 h resilience and 72 h FA. Meanwhile, positive correlations were identified in the concussion group with concussion between 72 h resilience and both 72 h MD and 72 h RD. These findings suggest that 72 h resilience is associated with white matter microstructure of the forceps minor, superior longitudinal fasciculus, and anterior thalamic radiation at 72 h post-concussion. Resilience seems to be associated with neural integrity only in the acute phase of concussion and thus may be considered when researching concussion recovery. 
