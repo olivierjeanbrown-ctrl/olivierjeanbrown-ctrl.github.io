@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2019-frontiers-psychology
 excerpt: ' '
-date: 2025-11-25
+date: 2019-11-25
 venue: 'Frontiers in Psychology'
 paperurl: 'https://olivierjeanbrown-ctrl.github.io/files/2019-frontiers-psychology.pdf'
 citation: 'Boutet et al., (2019). &quot;Perceptual Factors Can Drive Age-Related Elevation Of False Recognition&quot; <i>Frontiers in Psychology</i>. 10(743)'
