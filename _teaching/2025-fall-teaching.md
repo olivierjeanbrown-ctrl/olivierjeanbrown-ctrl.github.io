@@ -7,6 +7,7 @@ permalink: /teaching/2025-fall-teaching
 venue: "University of Ottawa"
 date: 2022-09-01
 location: "Ottawa, Canada"
+hide_date: true
 ---
 
 Taught the second-year course Biological Foundations of Behaviour to 100+ students in each of four academic terms (2022-2025). 
