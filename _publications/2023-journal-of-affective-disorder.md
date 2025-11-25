@@ -6,7 +6,7 @@ permalink: /publication/2023-journal-of-affective-disorder
 excerpt: '  '
 date: 2023-09-01
 venue: 'Journal of Affective Disorders'
-citation: 'Brown et al., (2023). &quot;Letter to the editor on Increased low-frequency brain responses to music after psilocybin therapy for depression&quot; <i>Journal of Affective Disorders</i>. 338.'
+citation: 'Brown et al., (2023). &quot;Letter to the editor on Increased low-frequency brain responses to music after psilocybin therapy for depression.&quot; <i>Journal of Affective Disorders</i>. 338.'
 ---
 **Abstract**
 
