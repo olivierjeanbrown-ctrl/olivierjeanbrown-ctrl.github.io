@@ -27,7 +27,7 @@ Resting-State Functional Connectivity (CONN Toolbox)
 
 I preprocessed resting-state fMRI using FMRIPrep and CONN’s SPM-based pipeline (realignment, slice timing, segmentation, normalization, smoothing), with motion and structural QC. Connectivity was examined via seed-to-voxel and ROI-to-ROI analyses across DMN, CEN, and SN networks, with RFT/FDR cluster corrections .Resting-state fMRI models in CONN incorporated longitudinal contrasts (72h → 4 weeks) to test resilience × group × time interactions at whole-brain and ROI levels. Follow-up regressions in R clarified interaction effects, slopes, and modality-specific patterns.
 Focus: network-level FC (DMN/CEN/SN); whole-brain and ROI analyses; GLM-based longitudinal FC; longitudinal connectivity change.
-![Published fMRI Figure Sample](/images/rsfmri.png)
+![Published fMRI Figure Sample](/assets/images/rsfmri.png)
 
 
 
