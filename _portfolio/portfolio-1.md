@@ -7,7 +7,7 @@ collection: portfolio
 Behavioural Analyses (R; Mixed-Effects Models)
 ------
 
-I developed R workflows to clean behavioral datasets, assess assumptions, and fit linear mixed-effects models examining resilience and symptom trajectories. These models tested group × time interactions and associations between behavioral change and imaging outcomes. I used SQL to aggregate and extract variables of interest for organization, time, and efficiency. Scripts demonstrating components of the workflow are available on my GitHub.
+I developed R workflows to clean behavioral datasets, assess assumptions, and fit linear mixed-effects models examining resilience and symptom trajectories. These models tested group × time interactions and associations between behavioral change and imaging outcomes. I used SQL to aggregate and extract variables of interest for organization, time, and efficiency. Scripts demonstrating components of the workflow are available on [my GitHub](https://github.com/olivierjeanbrown-ctrl).
 Focus: LME modeling; assumption checks; longitudinal behavioral effects; reproducible R analysis.
 
 White Matter Microstructure (AFNI; FSL)
